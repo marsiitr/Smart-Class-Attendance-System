@@ -29,5 +29,5 @@ We have seen the days when attendence was taken using lists on paper , that was 
    - SHREEYASH GEDA
    - SHUBHANSHU AGARWAL
 ## 9. References:
- ####### [face_recognition Documentation](https://github.com/ageitgey/face_recognition/blob/master/README.md) 
- ####### [IP webam APP](https://www.ispyconnect.com/man.aspx?n=IpWebcam+App)
+ ###### [face_recognition Documentation](https://github.com/ageitgey/face_recognition/blob/master/README.md) 
+ ###### [IP webam APP](https://www.ispyconnect.com/man.aspx?n=IpWebcam+App)
