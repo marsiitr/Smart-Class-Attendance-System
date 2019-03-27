@@ -28,4 +28,4 @@ We have seen the days when attendence was taken using lists on paper , that was 
    - SHREEYASH GEDA
    - SHUBHANSHU AGARWAL
 ## 9. References:
-[Documentation](https://github.com/ageitgey/face_recognition/blob/master/README.md)
+[face_recognition Documentation](https://github.com/ageitgey/face_recognition/blob/master/README.md)
