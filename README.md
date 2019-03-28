@@ -20,10 +20,10 @@ We have seen the days when attendence was taken using lists on paper , that was 
    - We can link a google sheet with attendance along with proper time and date so that every member can watch himself.
 ## 7. Team Members:
    - ANNU SHREE
-   - DEVJIT
-   - RISHIKA
-   - SANCHIT
-   - SHEETAL
+   - DEVJIT 
+   - RISHIKA CHANDRA
+   - SANCHIT VERMA
+   - SHEETAL OJHA
 ## 8. Mentors:
    - RIYA BHALLA
    - SHREEYASH GEDA
